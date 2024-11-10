@@ -31,5 +31,5 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
-Write your paragraph on the importance of the required plot elements here.
+### Ari Paulik - agpaulik
+Many plot elements are very important in establishing clarity in data presentations. For example, A consice title is needed to set up the figure and convey to its interpreters what the figure is about, without being long-winded. Axis labels follow the same rules, but descriping what is being compared instead (with appropriate units), and axis limits are important in defining scale, making the data clearly visible in its entirety. A reasonable tick resolution is imparative in establishing the readibility of the data, also providing scale and detail to the data. A legend is needed to keep track of the data when using multiple datasets, otherwise the interpreters wouldn't be able to tell what each element of the figure is denoting. And finally, appropriate font is important to make sure readers can see labels and gether all information needed to interpret the figure.
